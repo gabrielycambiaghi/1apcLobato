@@ -1,4 +1,4 @@
-,h1{
+h1{
     text-align: center;
     font-size: 25px;
     color: rgb(190, 59, 230);
@@ -6,7 +6,8 @@
 body{
 background-color: black;
 }
-.volei{width: 20%;}
-p{
+.volei{
+    width: 10%;}
+p {
     color:blueviolet(190, 59, 230)
 }
